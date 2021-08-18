@@ -23,7 +23,7 @@ You can use `python dem_generator.py -h` to get a full list of possible paramete
 
 ### Basic parameters
 
-* Output DEM path (madatory). The DEM mus have a `.tif` extension.
+* Output DEM path (mandatory). The DEM must have a `.tif` extension.
 * `--height <value>` DEM height in pixels (optional). Default value is 1000.
 * `--width <value>` DEM width in pixels (optional). Default value is 1000.
 * `--verbose` verbose mode (optional).
